@@ -8,10 +8,10 @@
             <InsightsFilterSettings>
               <option name="connection">
                 <ConnectionSetting>
-                  <option name="appId" value="PLACEHOLDER" />
-                  <option name="mobileSdkAppId" value="" />
-                  <option name="projectId" value="" />
-                  <option name="projectNumber" value="" />
+                  <option name="appId" value="com.example.focusplus" />
+                  <option name="mobileSdkAppId" value="1:647259998759:android:521ed77483f27975fd1c02" />
+                  <option name="projectId" value="focusplusdb" />
+                  <option name="projectNumber" value="647259998759" />
                 </ConnectionSetting>
               </option>
               <option name="signal" value="SIGNAL_UNSPECIFIED" />
