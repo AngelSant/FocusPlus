@@ -54,7 +54,7 @@ class LoginActivity : AppCompatActivity() {
                 auth.signInWithCredential(credential)
                     .addOnCompleteListener(this) { authTask ->
                         if (authTask.isSuccessful) {
-                            val intent = Intent(this, MainActivity::class.java)
+                            val intent = Intent(this, DashboardActivity::class.java)
                             startActivity(intent)
                             finish()
                         } else {
