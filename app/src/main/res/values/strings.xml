@@ -1,0 +1,13 @@
+<resources>
+    <!-- Nombre de la aplicación -->
+    <string name="app_name">focusplus</string>
+
+    <!-- ID del cliente web predeterminado -->
+    <string name="default_web_client_id">1:647259998759:android:521ed77483f27975fd1c02</string>
+
+    <!-- Descripción del texto de saludo -->
+    <string name="greeting_text_description">Greeting text saying Hello World</string>
+
+    <!-- Descripción de la imagen del logo -->
+    <string name="logo_image_description">Logo of FocusPlus application</string>
+</resources>

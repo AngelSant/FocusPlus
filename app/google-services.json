@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "647259998759",
+    "firebase_url": "https://focusplusdb-default-rtdb.firebaseio.com",
+    "project_id": "focusplusdb",
+    "storage_bucket": "focusplusdb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:647259998759:android:521ed77483f27975fd1c02",
+        "android_client_info": {
+          "package_name": "com.example.focusplus"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "647259998759-fp80o773hjc8lgnppvjnkdeg278tj9ct.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.focusplus",
+            "certificate_hash": "4c0ea9f926769f7864eabaaf21128359714b66ce"
+          }
+        },
+        {
+          "client_id": "647259998759-fvnqhr4dfejbd2bu584p8i8hfqf018k6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEmD4h2fbhEjmgDqv-uysi4BUzoa8ztrM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "647259998759-fvnqhr4dfejbd2bu584p8i8hfqf018k6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
