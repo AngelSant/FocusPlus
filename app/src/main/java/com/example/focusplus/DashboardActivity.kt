@@ -25,10 +25,10 @@ class DashboardActivity : AppCompatActivity() {
             val intent = Intent(this, ActivitiesActivity::class.java)
             startActivity(intent)
         }
-        /*btnProfile.setOnClickListener {
+        btnProfile.setOnClickListener {
             // Navegar a la actividad de perfil
             val intent = Intent(this, ProfileActivity::class.java)
             startActivity(intent)
-        }*/
+        }
     }
 }
