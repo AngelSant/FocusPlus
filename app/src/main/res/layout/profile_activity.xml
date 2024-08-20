@@ -10,7 +10,7 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:layout_gravity="center"
-        android:src="@drawable/default_profile_pic"
+        android:background="@android:color/darker_gray"
         android:contentDescription="@string/profile_pic" />
 
     <TextView
